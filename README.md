@@ -1,2 +1,2 @@
 # parallelized-DCS
-MATLAB script for Spectrum and Polarization Optical Tomography (SPOT) technique
+MATLAB script for highly parallelized diffuse correlation spectroscopy (pDCS)
